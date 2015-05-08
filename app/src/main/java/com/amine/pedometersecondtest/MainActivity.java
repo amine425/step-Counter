@@ -28,7 +28,7 @@ import java.util.concurrent.atomic.AtomicInteger;
 
 
 public class MainActivity extends Activity implements SensorEventListener {
-
+    //normally appears just in testDup
     //log
     private static final String TAG = MainActivity.class.getName();
 
